@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 20px;
+    width:100%;
+    background-color:lightblue;
+}
+#text{
+    height: 30px;
+}
+#send{
+    background-color:greenyellow;
+}
+.name{
+    font-size: 13px;
+    font-style: oblique;
+    color: grey;
+}
+.text{
+    font-size: 25px;
+}
+section{
+    background:#fff;
+    border-radius: 10px;
+    margin: 20px 800px 0 0;
+}
+.delete{
+    margin-bottom: 20px;
+}
